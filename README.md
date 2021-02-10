@@ -12,7 +12,7 @@ Version 1.2 by Frederic RODO (14 Oct 2017)
     - update the shifter results array
     - correct the INPORT message
 
-Version 1.1 by Fabrice GIRARDOT (f4brice@gmail.com) :
+Version 1.1 by Fabrice GIRARDOT (17 Sept 2017) :
     - fixed bug on bad ram display
     - refactored makefile
     - added binaries in zip file for easy compiling on Linux
