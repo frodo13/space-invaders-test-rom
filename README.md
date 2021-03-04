@@ -8,7 +8,7 @@ Version 1.3 by Marc Deslauriers (27 Mar 2019)
     - properly initialize ram test
 
 Version 1.2 by Frederic RODO (14 Oct 2017)
-    - test and display all the error ram
+    - test and display of all ram errors
     - update the shifter results array
     - correct the INPORT message
 
